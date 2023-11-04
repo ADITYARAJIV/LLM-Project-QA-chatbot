@@ -10,3 +10,4 @@ transformers
 InstructorEmbedding
 torch
 sentence_transformers
+nltk
